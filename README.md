@@ -4,7 +4,7 @@ STÁHNOUT ZDE ----> https://huggingface.co/datasets/Froglan/CzechGPT/resolve/mai
 
 Postup instalace:
 1. Stáhnout soubor z odkzu výše
-2. Komprimovat ten soubor
+2. Extrahovat ten soubor
 3. Otevřít soubor CzechGPT.exe
 
 UPOZORNĚNÍ: Antivirus tento soubor považuje za podezřelý - je třeba dát výjimku tomu souboru nebo vypnout antivirus, jinak to nepůjde spustit.
