@@ -3,7 +3,7 @@ CzechGPT - český AI asistent poháněný lokálním modelem Llama 3.2 3B Instr
 STÁHNOUT ZDE ----> https://huggingface.co/datasets/Froglan/CzechGPT/resolve/main/CzechGPT.zip
 
 Postup instalace:
-1. Stáhnout soubor z odkzu výše
+1. Stáhnout soubor z odkazu výše
 2. Extrahovat ten soubor
 3. Otevřít soubor CzechGPT.exe
 
