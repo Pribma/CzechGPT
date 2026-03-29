@@ -1,7 +1,7 @@
 # CzechGPT 
 CzechGPT - český AI asistent poháněný lokálním modelem Llama 3.2 3B Instruct, který je upravený pomocí metody fine-tuning na českých datech. 
-STÁHNOUT ZDE ----> https://huggingface.co/datasets/Froglan/CzechGPT/resolve/main/CzechGPT.zip
 
+STÁHNOUT ZDE ----> https://huggingface.co/datasets/Froglan/CzechGPT/resolve/main/CzechGPT.zip
 
 ZDROJOVÝ KÓD ZDE ----> https://huggingface.co/datasets/Froglan/CzechGPT/resolve/main/Zdrojovy_kod.zip
 
